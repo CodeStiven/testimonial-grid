@@ -12,12 +12,16 @@
 $moderate-violet: hsl(263, 55%, 52%);
 $very-dark-grayish-blue: hsl(217, 19%, 35%);
 $very-dark-blackish-blue: hsl(219, 29%, 14%);
-$white: hsl(0, 0%, 100%);
+$white: hsl(0, 0, 100%);
 
 // ### Neutral
 
 $light-gray: hsl(0, 0%, 81%);
-$light-grayish-blue: hsl(210, 46%, 95%);
+$light-grayish-blue: hsl(212, 22%, 86%);
+
+// shadow cards
+
+$box-shadow: 0px 4px 17px -3px rgba(0, 0, 0, 0.64);
 
 // Note for text colors:
 
